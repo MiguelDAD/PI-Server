@@ -1,0 +1,53 @@
+---- [12/06/2023 11:30:43] Obteniendo todos los torneos pendientes a generar ----
+---- [12/06/2023 11:30:44] Obteniendo todas las ligas pendientes a generar ----
+---- [12/06/2023 11:30:44] Obteniendo los partidos por jugarse ----
+---- [12/06/2023 11:30:44] Creado el hilo encargado de las tareas ----
+---- [12/06/2023 11:30:44] Iniciado el hilo encargado de las tareas ----
+---- [12/06/2023 11:30:44] SERVIDOR INICIADO ----
+Esperando 822555 segundos hasta la próxima tarea en: 2023-06-22T00:00
+---- [12/06/2023 11:31:13] Obteniendo todos los torneos pendientes a generar ----
+---- [12/06/2023 11:31:14] Obteniendo todas las ligas pendientes a generar ----
+---- [12/06/2023 11:31:14] Obteniendo los partidos por jugarse ----
+---- [12/06/2023 11:31:15] Creado el hilo encargado de las tareas ----
+---- [12/06/2023 11:31:15] Iniciado el hilo encargado de las tareas ----
+---- [12/06/2023 11:31:15] SERVIDOR INICIADO ----
+Esperando 822524 segundos hasta la próxima tarea en: 2023-06-22T00:00
+---- [12/06/2023 11:32:28] Obteniendo todos los torneos pendientes a generar ----
+---- [12/06/2023 11:32:29] Obteniendo todas las ligas pendientes a generar ----
+---- [12/06/2023 11:32:29] Obteniendo los partidos por jugarse ----
+---- [12/06/2023 11:32:29] Creado el hilo encargado de las tareas ----
+---- [12/06/2023 11:32:29] Iniciado el hilo encargado de las tareas ----
+---- [12/06/2023 11:32:29] SERVIDOR INICIADO ----
+Esperando 822450 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[12/06/2023 11:43:17] Se ha conectado un cliente
+[12/06/2023 11:43:26] 0-:CLI-LOGIN;x;1;USUARIO
+[12/06/2023 11:43:26] 14-x:SEV-LOGIN-OK-USER;14;x
+[12/06/2023 11:43:27] 14-x:CLI-GAMES-USER
+[12/06/2023 11:43:27] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[12/06/2023 11:43:40] 14-x:CLI-GAMES-STATE-USER;9
+[12/06/2023 11:43:40] 14-x:SEV-GAMES-STATE-USER-OK;INSCRITO
+[12/06/2023 11:43:41] 14-x:CLI-USERTEAMS
+[12/06/2023 11:43:42] 14-x:SEV-USERTEAMS_OK;122:Voleibol Playa:111:123!x!111!:36.508976,-4.88562:Publico;5:Futbol 11:x:x!miguel!:36.6292883,-6.3700189:Con Invitacion;x:Voleibol:x:123!x!:36.629294,-6.3700111:Publico;xa:Futbol Sala:x:x!:36.63436527684896,-6.367968209087849:Privado;playeo:Voleibol Playa:x:x!:36.6292917,-6.3700406:Publico;
+[12/06/2023 11:43:42] 14-x:CLI-USER-MAIL
+[12/06/2023 11:43:42] 14-x:SEV-USER-MAIL-OK;1sgsuausis@gmail.com
+---- [12/06/2023 18:07:12] Obteniendo todos los torneos pendientes a generar ----
+---- [12/06/2023 18:07:14] Obteniendo todas las ligas pendientes a generar ----
+---- [12/06/2023 18:07:14] Obteniendo los partidos por jugarse ----
+---- [12/06/2023 18:07:14] Creado el hilo encargado de las tareas ----
+---- [12/06/2023 18:07:14] Iniciado el hilo encargado de las tareas ----
+---- [12/06/2023 18:07:14] SERVIDOR INICIADO ----
+Esperando 798764 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[12/06/2023 18:07:49] Se ha conectado un cliente
+[12/06/2023 18:08:00] 0-:CLI-REGISTER;Pruebaaa;afafafa@gmail.com;123;ORGANIZADOR
+[12/06/2023 18:08:00] 0-Pruebaaa:SEV-REGISTER-OK-ORGANIZER;0;Pruebaaa
+[12/06/2023 18:08:00] 0-Pruebaaa:CLI-GIVETOURNAMENTS-ORGANIZER
+[12/06/2023 18:08:00] 0-Pruebaaa:SEV-SEND-YOUR-TOURNAMENTS;
+[12/06/2023 18:08:02] 0-Pruebaaa:CLI-GIVE-SPORTS
+[12/06/2023 18:08:02] 0-Pruebaaa:SEV-SEND-SPORTS;Balonmano :10;Futbol 11:22;Futbol 7:14;Futbol Sala:10;Tenis Pareja:4;Voleibol:12;Voleibol Playa:4;Waterpolo:10;
+[12/06/2023 18:08:14] 0-Pruebaaa:CLI-CREATETOURNAMENT;dadadada!36.6236874,-6.3601441!10!4!3!00:00!2023-06-30!00:00!2023-06-23!Balonmano 
+[12/06/2023 18:08:14] 0-Pruebaaa:SEV-TOURNAMENT-CREATE-ERROR
+[12/06/2023 18:11:35] 0-Pruebaaa:CLI-GIVETOURNAMENTS-ORGANIZER
+[12/06/2023 18:11:35] 0-Pruebaaa:SEV-SEND-YOUR-TOURNAMENTS;
+[12/06/2023 18:11:39] 0-Pruebaaa:CLI-EXIT
+[12/06/2023 18:11:39] 0-Pruebaaa:SE HA DESCONECTADO
+[12/06/2023 18:51:11] Se ha conectado un cliente

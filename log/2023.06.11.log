@@ -1,0 +1,362 @@
+---- [11/06/2023 16:02:09] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 16:02:10] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 16:02:10] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 16:02:11] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 16:02:11] Iniciado el hilo encargado de las tareas ----
+No hay tareas en la cola. Esperando inserccion...
+---- [11/06/2023 16:02:11] SERVIDOR INICIADO ----
+---- [11/06/2023 16:02:29] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 16:02:29] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 16:02:29] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 16:02:29] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 16:02:29] Iniciado el hilo encargado de las tareas ----
+Iniciando la tarea: GENERATE-FIGHT-LEAGUES;9
+---- [11/06/2023 16:02:29] SERVIDOR INICIADO ----
+[11/06/2023 16:02:29] GENERATE-FIGHT-LEAGUES;9: GENERANDO ENFRENTAMIENTO DE LA LIGA
+[11/06/2023 16:02:29] GENERATE-FIGHT-LEAGUES;9: EL ESTADO DE LA LIGA ES ESPERANDO
+[11/06/2023 16:02:29] GENERATE-FIGHT-LEAGUES;9: COMPROBANDO QUE CUMPLE LOS MINIMOS INSCRITOS
+[11/06/2023 16:02:29] GENERATE-FIGHT-LEAGUES;9: LA LIGA NO HA OBTENIDO LAS INSCRIPCCIONES SUFICIENTES
+[11/06/2023 16:02:29] GENERATE-FIGHT-LEAGUES;9: FINALIZADA LA GENRACION DE ENFRENTAMIENTOS
+
+Iniciando la tarea: GENERATE-FIGHT-TOURNAMENTS;24
+[11/06/2023 16:02:29] GENERATE-FIGHT-TOURNAMENTS;24: GENERANDO ENFRENTAMIENTO DEL TORNEO
+[11/06/2023 16:02:29] GENERATE-FIGHT-TOURNAMENTS;24: EL ESTADO DEL TORNEO ES ESPERANDO
+[11/06/2023 16:02:29] GENERATE-FIGHT-TOURNAMENTS;24: COMPROBANDO QUE CUMPLE LOS MINIMOS INSCRITOS
+[11/06/2023 16:02:29] GENERATE-FIGHT-TOURNAMENTS;24: EL TORNEO NO HA OBTENIDO LAS INSCRIPCCIONES SUFICIENTES
+[11/06/2023 16:02:29] GENERATE-FIGHT-TOURNAMENTS;24: FINALIZADA LA GENRACION DE ENFRENTAMIENTOS
+
+Esperando 892650 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[11/06/2023 16:18:55] Se ha conectado un cliente
+[11/06/2023 16:18:59] 0-:CLI-LOGIN;x;1;USUARIO
+[11/06/2023 16:19:00] 14-x:SEV-LOGIN-OK-USER;14;x
+[11/06/2023 16:19:01] 14-x:CLI-GAMES-USER
+[11/06/2023 16:19:01] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[11/06/2023 16:19:02] 14-x:CLI-TOURNAMENTS-USER
+[11/06/2023 16:19:02] 14-x:SEV-TOURNAMENTS-USER-OK;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;
+[11/06/2023 16:19:04] 14-x:CLI-USERTEAMS
+[11/06/2023 16:19:04] 14-x:SEV-USERTEAMS_OK;122:Voleibol Playa:111:123!x!111!:36.508976,-4.88562:Publico;5:Futbol 11:x:x!miguel!:36.6292883,-6.3700189:Con Invitacion;x:Voleibol:x:123!x!:36.629294,-6.3700111:Publico;xa:Futbol Sala:x:x!:36.63436527684896,-6.367968209087849:Privado;playeo:Voleibol Playa:x:x!:36.6292917,-6.3700406:Publico;
+[11/06/2023 16:19:06] 14-x:CLI-LIGUES-USER
+[11/06/2023 16:19:06] 14-x:SEV-LIGUES-USER-OK;2!Jere!36.6816936,-6.1377402!12.0!5!3!02:00!2023-04-12!06:00!2023-03-29!Futbol 11!12!12!04:00!07:00!Jugandose!4;
+[11/06/2023 16:19:07] 14-x:CLI-GAMES-USER
+[11/06/2023 16:19:07] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[11/06/2023 16:19:07] 14-x:CLI-USERTEAMS
+[11/06/2023 16:19:07] 14-x:SEV-USERTEAMS_OK;122:Voleibol Playa:111:123!x!111!:36.508976,-4.88562:Publico;5:Futbol 11:x:x!miguel!:36.6292883,-6.3700189:Con Invitacion;x:Voleibol:x:123!x!:36.629294,-6.3700111:Publico;xa:Futbol Sala:x:x!:36.63436527684896,-6.367968209087849:Privado;playeo:Voleibol Playa:x:x!:36.6292917,-6.3700406:Publico;
+[11/06/2023 16:19:10] 14-x:CLI-SEARCH-TEAMS;36.6292423,-6.3700645;5
+[11/06/2023 16:19:10] 14-x:SEV-SEARCH-TEAMS-OK;playeo:Voleibol Playa:x:x!:36.6292917,-6.3700406:Publico;5:Futbol 11:x:x!miguel!:36.6292883,-6.3700189:Con Invitacion;x:Voleibol:x:123!x!:36.629294,-6.3700111:Publico;1:Futbol 11:x::36.63338110180352,-6.37260340154171:Publico;xa:Futbol Sala:x:x!:36.63436527684896,-6.367968209087849:Privado;
+[11/06/2023 16:19:13] 14-x:CLI-SEARCH-TEAMS;36.6292423,-6.3700645;50
+[11/06/2023 16:19:13] 14-x:SEV-SEARCH-TEAMS-OK;playeo:Voleibol Playa:x:x!:36.6292917,-6.3700406:Publico;5:Futbol 11:x:x!miguel!:36.6292883,-6.3700189:Con Invitacion;x:Voleibol:x:123!x!:36.629294,-6.3700111:Publico;1:Futbol 11:x::36.63338110180352,-6.37260340154171:Publico;xa:Futbol Sala:x:x!:36.63436527684896,-6.367968209087849:Privado;2:Futbol 11:123::36.77386663795754,-6.351450160145759:Privado;invitado:Futbol 11:123:123!:36.5009591,-6.2723304:Con Invitacion;ELIMINADO3:Futbol Sala:124::36.4210849486101, -6.13348387670698:Publico;
+[11/06/2023 16:19:18] 14-x:SE HA DESCONECTADO
+[11/06/2023 16:21:39] Se ha conectado un cliente
+[11/06/2023 16:21:43] 0-:CLI-LOGIN;x;1;USUARIO
+[11/06/2023 16:21:43] 14-x:SEV-LOGIN-OK-USER;14;x
+[11/06/2023 16:21:43] 14-x:CLI-GAMES-USER
+[11/06/2023 16:21:43] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[11/06/2023 16:21:45] 14-x:CLI-USER-MAIL
+[11/06/2023 16:21:45] 14-x:SEV-USER-MAIL-OK;1
+[11/06/2023 16:21:47] 14-x:CLI-USERTEAMS
+[11/06/2023 16:21:47] 14-x:SEV-USERTEAMS_OK;122:Voleibol Playa:111:123!x!111!:36.508976,-4.88562:Publico;5:Futbol 11:x:x!miguel!:36.6292883,-6.3700189:Con Invitacion;x:Voleibol:x:123!x!:36.629294,-6.3700111:Publico;xa:Futbol Sala:x:x!:36.63436527684896,-6.367968209087849:Privado;playeo:Voleibol Playa:x:x!:36.6292917,-6.3700406:Publico;
+[11/06/2023 16:21:48] 14-x:CLI-LIGUES-USER
+[11/06/2023 16:21:48] 14-x:SEV-LIGUES-USER-OK;2!Jere!36.6816936,-6.1377402!12.0!5!3!02:00!2023-04-12!06:00!2023-03-29!Futbol 11!12!12!04:00!07:00!Jugandose!4;
+[11/06/2023 16:21:48] 14-x:CLI-TOURNAMENTS-USER
+[11/06/2023 16:21:48] 14-x:SEV-TOURNAMENTS-USER-OK;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;
+[11/06/2023 16:21:50] 14-x:CLI-USER-MAIL
+[11/06/2023 16:21:50] 14-x:SEV-USER-MAIL-OK;1
+[11/06/2023 16:22:18] 14-x:CLI-REQUEST-SPORT;Furbito;12;6;zjsjksjs
+[11/06/2023 16:22:18] 14-x:SEV-REQUEST-SPORT-OK
+[11/06/2023 16:22:18] 14-x:isjdjdkd
+[11/06/2023 16:22:18] 14-x:ERROR
+[11/06/2023 16:22:18] 14-x:sisiajajajajsjsjdjdjdjd.hdbdjd
+[11/06/2023 16:22:18] 14-x:ERROR
+[11/06/2023 16:22:43] Un usuario se ha desconectado de forma abrupta
+[11/06/2023 16:23:57] Se ha conectado un cliente
+[11/06/2023 16:24:13] 0-:CLI-LOGIN;x;1;USUARIO
+[11/06/2023 16:24:13] 14-x:SEV-LOGIN-OK-USER;14;x
+[11/06/2023 16:24:14] 14-x:CLI-GAMES-USER
+[11/06/2023 16:24:14] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[11/06/2023 16:24:15] 14-x:CLI-USER-MAIL
+[11/06/2023 16:24:15] 14-x:SEV-USER-MAIL-OK;1
+[11/06/2023 16:24:36] 14-x:CLI-CHANGE-DATA;1sgsuausis@gmail.com;
+[11/06/2023 16:24:36] 14-x:SEV-CHANGE-DATA-OK
+[11/06/2023 16:24:49] 14-x:CLI-CHANGE-DATA;1sgsuausis@gmail.com;123
+[11/06/2023 16:24:49] 14-x:SEV-CHANGE-DATA-OK
+[11/06/2023 16:24:54] 14-x:CLI-CHANGE-DATA;1sgsuausis@gmail.com;1
+[11/06/2023 16:24:54] 14-x:SEV-CHANGE-DATA-OK
+[11/06/2023 16:25:08] 14-x:CLI-CHANGE-DATA;1sgsuausis@gmail.com;1
+[11/06/2023 16:25:08] 14-x:SEV-CHANGE-DATA-OK
+[11/06/2023 16:25:31] 14-x:CLI-LIGUES-USER
+[11/06/2023 16:25:31] 14-x:SEV-LIGUES-USER-OK;2!Jere!36.6816936,-6.1377402!12.0!5!3!02:00!2023-04-12!06:00!2023-03-29!Futbol 11!12!12!04:00!07:00!Jugandose!4;
+[11/06/2023 16:25:31] 14-x:CLI-USER-MAIL
+[11/06/2023 16:25:31] 14-x:SEV-USER-MAIL-OK;1sgsuausis@gmail.com
+[11/06/2023 16:25:37] 14-x:CLI-CHANGE-DATA;1sgsuausis@gmail.com;1
+[11/06/2023 16:25:37] 14-x:SEV-CHANGE-DATA-OK
+[11/06/2023 16:25:52] 14-x:CLI-REQUEST-SPORT;gaha;15;7;jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx
+[11/06/2023 16:25:52] 14-x:SEV-REQUEST-SPORT-OK
+[11/06/2023 16:26:50] 14-x:SE HA DESCONECTADO
+[11/06/2023 16:26:55] Se ha conectado un cliente
+[11/06/2023 16:26:58] 0-:CLI-LOGIN;x;1;USUARIO
+[11/06/2023 16:26:58] 14-x:SEV-LOGIN-OK-USER;14;x
+[11/06/2023 16:26:59] 14-x:CLI-GAMES-USER
+[11/06/2023 16:26:59] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[11/06/2023 16:27:00] 14-x:CLI-USER-MAIL
+[11/06/2023 16:27:00] 14-x:SEV-USER-MAIL-OK;1sgsuausis@gmail.com
+[11/06/2023 16:27:07] 14-x:CLI-REQUEST-SPORT;wub;12;24;wysjsiajs
+[11/06/2023 16:27:07] 14-x:SEV-REQUEST-SPORT-OK
+---- [11/06/2023 17:06:06] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 17:06:07] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 17:06:07] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 17:06:07] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 17:06:07] Iniciado el hilo encargado de las tareas ----
+---- [11/06/2023 17:06:07] SERVIDOR INICIADO ----
+Esperando 888832 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[11/06/2023 17:06:22] Se ha conectado un cliente
+[11/06/2023 17:06:33] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:06:33] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:06:34] 2-123:CLI-SHOW-USER
+[11/06/2023 17:06:34] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:08:40] 2-123:CLI-EXIT
+[11/06/2023 17:08:40] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:08:43] Se ha conectado un cliente
+[11/06/2023 17:08:48] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:08:48] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:08:49] 2-123:CLI-SHOW-USER
+[11/06/2023 17:08:50] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:08:51] 2-123:CLI-GET-SPORT
+[11/06/2023 17:08:51] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:08:55] 2-123:CLI-GET-SPORT
+[11/06/2023 17:08:55] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:08:56] 2-123:CLI-EXIT
+[11/06/2023 17:08:56] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:10:05] Se ha conectado un cliente
+[11/06/2023 17:10:12] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:10:12] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:10:14] 2-123:CLI-SHOW-USER
+[11/06/2023 17:10:14] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:10:15] 2-123:CLI-GET-SPORT
+[11/06/2023 17:10:15] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:10:17] 2-123:CLI-SHOW-USER
+[11/06/2023 17:10:17] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:10:23] 2-123:CLI-GET-SPORT
+[11/06/2023 17:10:23] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:10:29] 2-123:CLI-EXIT
+[11/06/2023 17:10:29] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:10:56] Se ha conectado un cliente
+[11/06/2023 17:11:03] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:11:03] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:11:18] 2-123:CLI-SHOW-USER
+[11/06/2023 17:11:18] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:11:20] 2-123:CLI-GET-SPORT
+[11/06/2023 17:11:20] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:11:21] 2-123:CLI-SHOW-USER
+[11/06/2023 17:11:21] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:12:23] Se ha conectado un cliente
+[11/06/2023 17:12:25] 2-123:CLI-GET-SPORT
+[11/06/2023 17:12:25] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:12:28] 2-123:CLI-EXIT
+[11/06/2023 17:12:28] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:12:31] 0-:CLI-EXIT
+[11/06/2023 17:12:31] 0-:SE HA DESCONECTADO
+[11/06/2023 17:12:39] Se ha conectado un cliente
+[11/06/2023 17:13:14] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:13:14] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:13:15] 2-123:CLI-SHOW-USER
+[11/06/2023 17:13:15] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:13:17] 2-123:CLI-GET-SPORT
+[11/06/2023 17:13:17] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:13:18] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:13:19] 2-123:SEV-PETITION-SPORT-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;
+[11/06/2023 17:13:30] 2-123:CLI-GET-SPORT
+[11/06/2023 17:13:30] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:13:31] 2-123:CLI-SHOW-LIGUE
+[11/06/2023 17:13:31] 2-123:SEV-SHOW-LIGUE-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;
+[11/06/2023 17:13:35] 2-123:CLI-SHOW-TOURNAMENT
+[11/06/2023 17:13:35] 2-123:SEV-SHOW-TOURNAMENT-OK;1!Prueba!Futbol 11!123!36.4210849486101,-6.13348387670698!Jugandose;27!Prueba!Voleibol!x!36.6236874,-6.3601441!Jugandose;12!123!Voleibol!123!36.63479325,-6.38725705210204!Cancelado;14!prueba!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;25!123!Futbol 11!123!36.6204069,-6.3620778!Cancelado;6!ADADA!Futbol 11!123!36.7355451,-6.4348221!Cancelado;22!Pachangeo!Voleibol Playa!123!36.6816936,-6.1377402!Cancelado;3!213!Futbol 11!123!36.4210849486101, -6.13348387670698!Cancelado;18!123!Futbol 11!123!36.6228636,-6.3599595!Cancelado;20!123!Futbol Sala!123!36.63479325,-6.38725705210204!Cancelado;8!x!Futbol 11!x!36.508976,-4.88562!Cancelado;21!Prueba!Futbol 11!123!36.7355451,-6.4348221!Cancelado;24!Rota!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;5!Prueba!Futbol 11!123!36.63479325,-6.38725705210204!Cancelado;2!Prueba!Futbol 11!123!36.4210849486101, -6.13348387670698!Cancelado;15!13!Futbol 11!123!36.6228636,-6.3599595!Cancelado;11!21!Futbol Sala!123!36.294487399999994,-6.092790754888084!Cancelado;7!123!Futbol 11!123!36.6228636,-6.3599595!Cancelado;19!213!Futbol 11!123!36.6228636,-6.3599595!Cancelado;23!Pachangeo !Voleibol Playa!123!36.6816936,-6.1377402!Cancelado;4!123!Futbol 11!123!36.63479325,-6.38725705210204!Cancelado;
+[11/06/2023 17:13:37] 2-123:CLI-EXIT
+[11/06/2023 17:13:37] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:25:23] Se ha conectado un cliente
+[11/06/2023 17:25:27] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:25:27] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:25:29] 2-123:CLI-SHOW-USER
+[11/06/2023 17:25:29] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:25:31] 2-123:CLI-GET-SPORT
+[11/06/2023 17:25:31] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:25:32] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:25:32] 2-123:SEV-PETITION-SPORT-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;
+[11/06/2023 17:27:41] 2-123:CLI-EXIT
+[11/06/2023 17:27:41] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:27:47] Se ha conectado un cliente
+[11/06/2023 17:27:51] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:27:51] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:27:52] 2-123:CLI-SHOW-USER
+[11/06/2023 17:27:53] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:27:54] 2-123:CLI-GET-SPORT
+[11/06/2023 17:27:54] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:27:54] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:27:54] 2-123:SEV-PETITION-SPORT-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;
+[11/06/2023 17:28:13] 2-123:CLI-EXIT
+[11/06/2023 17:28:13] 2-123:SE HA DESCONECTADO
+---- [11/06/2023 17:41:36] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 17:41:38] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 17:41:38] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 17:41:38] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 17:41:38] Iniciado el hilo encargado de las tareas ----
+---- [11/06/2023 17:41:38] SERVIDOR INICIADO ----
+Esperando 886701 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[11/06/2023 17:41:38] Se ha conectado un cliente
+[11/06/2023 17:41:46] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:41:46] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:41:48] 2-123:CLI-SHOW-USER
+[11/06/2023 17:41:48] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:41:50] 2-123:CLI-GET-SPORT
+[11/06/2023 17:41:50] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:41:51] 2-123:CLI-SHOW-LIGUE
+[11/06/2023 17:41:51] 2-123:SEV-SHOW-LIGUE-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;
+[11/06/2023 17:41:55] 2-123:CLI-GET-SPORT
+[11/06/2023 17:41:55] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:41:57] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:41:57] 2-123:SEV-PETITION-SPORT-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;
+[11/06/2023 17:42:07] 2-123:CLI-EXIT
+[11/06/2023 17:42:07] 2-123:SE HA DESCONECTADO
+---- [11/06/2023 17:42:45] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 17:42:46] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 17:42:46] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 17:42:46] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 17:42:46] Iniciado el hilo encargado de las tareas ----
+[11/06/2023 17:43:11] Se ha conectado un cliente
+[11/06/2023 17:43:31] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:43:31] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:43:32] 2-123:CLI-SHOW-USER
+[11/06/2023 17:43:33] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:43:36] 2-123:CLI-GET-SPORT
+[11/06/2023 17:43:36] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:43:37] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:43:37] 2-123:SEV-PETITION-SPORT-OK;2!Jere!Futbol 11!123!36.6816936,-6.1377402!Jugandose;10!Prueba liga!Futbol 11!123!36.6228636,-6.3599595!Cancelado;3!Liguilla!Futbol 11!123!36.5286856,-6.1902161!Cancelado;1!qed!Voleibol!123!36.6228636,-6.3599595!Cancelado;8!Gratis!Futbol 11!123!36.6228636,-6.3599595!Cancelado;9!gratis!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;11!Prueba!Futbol 11!x!36.67826185,-6.110059436817895!Cancelado;5!Playa!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;6!Liguilla!Voleibol!123!36.7355451,-6.4348221!Cancelado;
+[11/06/2023 17:43:46] Un usuario se ha desconectado de forma abrupta
+---- [11/06/2023 17:43:52] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 17:43:54] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 17:43:54] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 17:43:54] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 17:43:54] Iniciado el hilo encargado de las tareas ----
+---- [11/06/2023 17:43:54] SERVIDOR INICIADO ----
+Esperando 886565 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[11/06/2023 17:44:08] Se ha conectado un cliente
+[11/06/2023 17:44:11] 0-:CLI-LOGIN;x;1;USUARIO
+[11/06/2023 17:44:12] 14-x:SEV-LOGIN-OK-USER;14;x
+[11/06/2023 17:44:12] 14-x:CLI-GAMES-USER
+[11/06/2023 17:44:12] 14-x:SEV-GAMES-USER-OK;36.6290774,-6.3701994!2023-06-30!00:00!2023-06-22!05:00!18.0!Futbol 11!Esperando Jugadores!22!1!5;36.62985513367301,-6.3755860179662704!2023-06-30!00:00!2023-06-22!00:00!12.54!Futbol 11!Esperando Jugadores!22!1!9;
+[11/06/2023 17:44:13] 14-x:CLI-TOURNAMENTS-USER
+[11/06/2023 17:44:13] 14-x:SEV-TOURNAMENTS-USER-OK;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;Prueba!36.6236874,-6.3601441!0.0!8!3!00:00!2023-07-01!00:00!2023-06-06!Voleibol!Jugandose!5!27;
+[11/06/2023 17:44:15] 14-x:CLI-USER-MAIL
+[11/06/2023 17:44:15] 14-x:SEV-USER-MAIL-OK;1sgsuausis@gmail.com
+[11/06/2023 17:44:22] Se ha conectado un cliente
+[11/06/2023 17:44:28] 14-x:CLI-REQUEST-SPORT;Balonmano ;10;5;deporte de pasarse la pelota
+[11/06/2023 17:44:28] 14-x:SEV-REQUEST-SPORT-OK
+[11/06/2023 17:44:45] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:44:45] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:44:48] 2-123:CLI-SHOW-USER
+[11/06/2023 17:44:48] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:44:51] 2-123:CLI-GET-SPORT
+[11/06/2023 17:44:51] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:44:53] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:44:53] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:admin;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:123;
+[11/06/2023 17:45:37] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:45:37] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:admin;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:123;
+[11/06/2023 17:47:19] Un usuario se ha desconectado de forma abrupta
+---- [11/06/2023 17:47:25] Obteniendo todos los torneos pendientes a generar ----
+---- [11/06/2023 17:47:27] Obteniendo todas las ligas pendientes a generar ----
+---- [11/06/2023 17:47:27] Obteniendo los partidos por jugarse ----
+---- [11/06/2023 17:47:28] Creado el hilo encargado de las tareas ----
+---- [11/06/2023 17:47:28] Iniciado el hilo encargado de las tareas ----
+---- [11/06/2023 17:47:28] SERVIDOR INICIADO ----
+Esperando 886351 segundos hasta la próxima tarea en: 2023-06-22T00:00
+[11/06/2023 17:47:49] Se ha conectado un cliente
+[11/06/2023 17:48:00] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:48:01] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:48:02] 2-123:CLI-SHOW-USER
+[11/06/2023 17:48:02] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:48:04] 2-123:CLI-GET-SPORT
+[11/06/2023 17:48:04] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:48:06] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:48:06] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:x;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:x;3:wub:12:24:wysjsiajs:x;4:Balonmano :10:5:deporte de pasarse la pelota:x;
+[11/06/2023 17:50:49] 2-123:CLI-EXIT
+[11/06/2023 17:50:49] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:51:00] Se ha conectado un cliente
+[11/06/2023 17:51:04] 0-:CLI-EXIT
+[11/06/2023 17:51:04] 0-:SE HA DESCONECTADO
+[11/06/2023 17:52:30] Se ha conectado un cliente
+[11/06/2023 17:52:34] 0-:CLI-EXIT
+[11/06/2023 17:52:34] 0-:SE HA DESCONECTADO
+[11/06/2023 17:52:57] Se ha conectado un cliente
+[11/06/2023 17:53:06] 0-:CLI-EXIT
+[11/06/2023 17:53:06] 0-:SE HA DESCONECTADO
+[11/06/2023 17:53:14] Se ha conectado un cliente
+[11/06/2023 17:53:20] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:53:20] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:53:22] 2-123:CLI-SHOW-USER
+[11/06/2023 17:53:22] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:53:23] 2-123:CLI-GET-SPORT
+[11/06/2023 17:53:23] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;
+[11/06/2023 17:53:24] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:53:24] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:x;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:x;3:wub:12:24:wysjsiajs:x;4:Balonmano :10:5:deporte de pasarse la pelota:x;
+[11/06/2023 17:53:30] 2-123:CLI-ADD-SPORT;Balonmano ;10;5
+[11/06/2023 17:53:30] 2-123:SEV-ADD-SPORT-OK
+[11/06/2023 17:53:30] 2-123:CLI-PETITION-ANSWER;4;SI
+[11/06/2023 17:53:30] 2-123:SEV-PETITION-ANSWER-OK
+[11/06/2023 17:53:30] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:53:30] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:x;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:x;3:wub:12:24:wysjsiajs:x;
+[11/06/2023 17:53:32] 2-123:CLI-GET-SPORT
+[11/06/2023 17:53:32] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;8:Balonmano :10:5;
+[11/06/2023 17:53:35] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:53:35] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:x;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:x;3:wub:12:24:wysjsiajs:x;
+[11/06/2023 17:53:37] 2-123:CLI-PETITION-ANSWER;3;NO
+[11/06/2023 17:53:37] 2-123:SEV-PETITION-ANSWER-OK
+[11/06/2023 17:53:38] 2-123:CLI-GET-SPORT
+[11/06/2023 17:53:38] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;8:Balonmano :10:5;
+[11/06/2023 17:53:40] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:53:40] 2-123:SEV-PETITION-SPORT-OK;1:Furbito:12:6:zjsjksjs:x;2:gaha:15:7:jajaja a sisjs snsjsjsjsjdjdjkwbcbeceiencinciencnxkeenncjcx:x;
+[11/06/2023 17:53:43] 2-123:CLI-PETITION-ANSWER;2;NO
+[11/06/2023 17:53:43] 2-123:SEV-PETITION-ANSWER-OK
+[11/06/2023 17:53:46] 2-123:CLI-PETITION-ANSWER;1;NO
+[11/06/2023 17:53:46] 2-123:SEV-PETITION-ANSWER-OK
+[11/06/2023 17:53:47] 2-123:CLI-GET-SPORT
+[11/06/2023 17:53:47] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;8:Balonmano :10:5;
+[11/06/2023 17:53:58] 2-123:CLI-EXIT
+[11/06/2023 17:53:58] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:56:29] Se ha conectado un cliente
+[11/06/2023 17:56:33] 0-:CLI-EXIT
+[11/06/2023 17:56:33] 0-:SE HA DESCONECTADO
+[11/06/2023 17:56:35] Se ha conectado un cliente
+[11/06/2023 17:56:39] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:56:39] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:56:40] 2-123:CLI-SHOW-USER
+[11/06/2023 17:56:40] 2-123:SEV-SHOW-USER-OK;1:admin:admin@admin.com:Administrador, Organizador;2:123:afafagagaga@gmail.comm:Administrador, Organizador, Usuario;13:124:hola:Administrador, Organizador, Usuario;14:x:1sgsuausis@gmail.com:Administrador, Organizador, Usuario;15:123456:nose:Administrador, Organizador, Usuario;16:147:47asd:Administrador, Usuario;17:111:111:Administrador, Usuario;19:miguel:miguelito:Usuario;30:nuevoo:dhidsbsjajjaaj:Usuario;31:miguelitro:Nosalfaf@gmail.com:Organizador;
+[11/06/2023 17:56:41] 2-123:CLI-GET-SPORT
+[11/06/2023 17:56:41] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;8:Balonmano :10:5;
+[11/06/2023 17:56:42] 2-123:CLI-PETITION-SPORT
+[11/06/2023 17:56:42] 2-123:SEV-PETITION-SPORT-OK;
+[11/06/2023 17:56:44] 2-123:CLI-GET-SPORT
+[11/06/2023 17:56:44] 2-123:SEV-GET-SPORT-OK;1:Futbol 11:22:11;2:Futbol 7:14:7;3:Futbol Sala:10:5;4:Voleibol:12:6;5:Voleibol Playa:4:2;6:Waterpolo:10:5;7:Tenis Pareja:4:2;8:Balonmano :10:5;
+[11/06/2023 17:56:45] 2-123:CLI-SHOW-TEAM
+[11/06/2023 17:56:45] 2-123:SEV-SHOW-TEAM-OK;ELIMINADO3:Futbol Sala:124:36.4210849486101, -6.13348387670698:Publico;122:Voleibol Playa:111:36.508976,-4.88562:Publico;x:Voleibol:x:36.629294,-6.3700111:Publico;playeo:Voleibol Playa:x:36.6292917,-6.3700406:Publico;1:Futbol 11:x:36.63338110180352,-6.37260340154171:Publico;5:Futbol 11:x:36.6292883,-6.3700189:Con Invitacion;invitado:Futbol 11:123:36.5009591,-6.2723304:Con Invitacion;xa:Futbol Sala:x:36.63436527684896,-6.367968209087849:Privado;2:Futbol 11:123:36.77386663795754,-6.351450160145759:Privado;
+[11/06/2023 17:56:48] 2-123:CLI-SHOW-TOURNAMENT
+[11/06/2023 17:56:48] 2-123:SEV-SHOW-TOURNAMENT-OK;27!Prueba!Voleibol!x!36.6236874,-6.3601441!Jugandose;1!Prueba!Futbol 11!123!36.4210849486101,-6.13348387670698!Jugandose;5!Prueba!Futbol 11!123!36.63479325,-6.38725705210204!Cancelado;21!Prueba!Futbol 11!123!36.7355451,-6.4348221!Cancelado;24!Rota!Voleibol Playa!123!36.6228636,-6.3599595!Cancelado;2!Prueba!Futbol 11!123!36.4210849486101, -6.13348387670698!Cancelado;15!13!Futbol 11!123!36.6228636,-6.3599595!Cancelado;7!123!Futbol 11!123!36.6228636,-6.3599595!Cancelado;11!21!Futbol Sala!123!36.294487399999994,-6.092790754888084!Cancelado;4!123!Futbol 11!123!36.63479325,-6.38725705210204!Cancelado;19!213!Futbol 11!123!36.6228636,-6.3599595!Cancelado;23!Pachangeo !Voleibol Playa!123!36.6816936,-6.1377402!Cancelado;14!prueba!Futbol 11!123!36.67826185,-6.110059436817895!Cancelado;12!123!Voleibol!123!36.63479325,-6.38725705210204!Cancelado;6!ADADA!Futbol 11!123!36.7355451,-6.4348221!Cancelado;25!123!Futbol 11!123!36.6204069,-6.3620778!Cancelado;3!213!Futbol 11!123!36.4210849486101, -6.13348387670698!Cancelado;18!123!Futbol 11!123!36.6228636,-6.3599595!Cancelado;22!Pachangeo!Voleibol Playa!123!36.6816936,-6.1377402!Cancelado;8!x!Futbol 11!x!36.508976,-4.88562!Cancelado;20!123!Futbol Sala!123!36.63479325,-6.38725705210204!Cancelado;
+[11/06/2023 17:56:50] 2-123:CLI-EXIT
+[11/06/2023 17:56:50] 2-123:SE HA DESCONECTADO
+[11/06/2023 17:56:52] Se ha conectado un cliente
+[11/06/2023 17:56:57] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[11/06/2023 17:56:57] 2-123:SEV-LOGIN-OK-ADMIN;2;123
+[11/06/2023 17:56:58] 2-123:CLI-GIVETOURNAMENTS-ORGANIZER
+[11/06/2023 17:56:58] 2-123:SEV-SEND-YOUR-TOURNAMENTS;Prueba!36.4210849486101,-6.13348387670698!15.0!4!2!15:00!2023-04-04!15:00!2023-04-19!Futbol 11!Jugandose!3!1;123!36.63479325,-6.38725705210204!0.0!4!2!19:20!2023-05-16!19:20!2023-05-15!Voleibol!Cancelado!0!12;ADADA!36.7355451,-6.4348221!123.0!4!2!15:00!2023-04-12!21:07!2023-04-21!Futbol 11!Cancelado!0!6;Pachangeo!36.6816936,-6.1377402!5.0!4!3!00:00!2023-05-31!00:00!2023-05-24!Voleibol Playa!Cancelado!0!22;123!36.6228636,-6.3599595!2.0!4!2!15:00!2023-03-28!00:00!2023-04-21!Futbol 11!Cancelado!0!7;Pachangeo !36.6816936,-6.1377402!5.0!4!3!00:00!2023-06-30!00:00!2023-06-09!Voleibol Playa!Cancelado!1!23;prueba!36.67826185,-6.110059436817895!0.0!4!2!00:00!2023-05-15!19:34!2023-05-14!Futbol 11!Cancelado!0!14;Rota!36.6228636,-6.3599595!0.0!4!3!00:00!2023-06-01!00:00!2023-06-11!Voleibol Playa!Cancelado!1!24;13!36.6228636,-6.3599595!0.0!4!2!00:00!2023-05-27!19:00!2023-05-14!Futbol 11!Cancelado!0!15;123!36.6228636,-6.3599595!0.0!4!2!00:00!2023-05-20!19:29!2023-05-14!Futbol 11!Cancelado!0!18;213!36.6228636,-6.3599595!0.0!4!3!00:00!2023-05-03!00:00!2023-05-25!Futbol 11!Cancelado!0!19;Prueba!36.7355451,-6.4348221!0.0!4!3!00:00!2023-05-31!00:00!2023-05-29!Futbol 11!Cancelado!0!21;Prueba!36.4210849486101, -6.13348387670698!15.2!4!2!15:00!2023-04-04!15:00!2023-04-19!Futbol 11!Cancelado!0!2;123!36.6204069,-6.3620778!123.3!4!3!00:00!2023-06-04!00:00!2023-06-03!Futbol 11!Cancelado!0!25;213!36.4210849486101, -6.13348387670698!123.0!4!2!15:00!2023-04-07!12:34!2023-04-13!Futbol 11!Cancelado!0!3;21!36.294487399999994,-6.092790754888084!0.0!4!2!00:00!2023-05-19!00:00!2023-05-28!Futbol Sala!Cancelado!0!11;123!36.63479325,-6.38725705210204!123.0!4!2!15:00!2023-04-01!11:15!2023-04-05!Futbol 11!Cancelado!0!4;123!36.63479325,-6.38725705210204!10.0!4!3!00:00!2023-05-22!00:00!2023-05-26!Futbol Sala!Cancelado!0!20;Prueba!36.63479325,-6.38725705210204!12.0!4!2!14:28!2023-04-05!17:28!2023-04-12!Futbol 11!Cancelado!0!5;
+[11/06/2023 17:57:01] 2-123:CLI-GIVE-SPORTS
+[11/06/2023 17:57:02] 2-123:SEV-SEND-SPORTS;Balonmano :10;Futbol 11:22;Futbol 7:14;Futbol Sala:10;Tenis Pareja:4;Voleibol:12;Voleibol Playa:4;Waterpolo:10;
+[11/06/2023 17:57:04] 2-123:CLI-GIVELIGUES-ORGANIZER
+[11/06/2023 17:57:04] 2-123:SEV-SEND-YOUR-LIGUES;2!Jere!36.6816936,-6.1377402!12.0!5!3!02:00!2023-04-12!06:00!2023-03-29!Futbol 11!12!12!04:00!07:00!Jugandose!4;1!qed!36.6228636,-6.3599595!123.0!23!17!20:12!2023-04-05!07:03!2023-04-28!Voleibol!1!1!2:3!3:3!Cancelado!0;3!Liguilla!36.5286856,-6.1902161!0.0!4!2!00:00!2023-05-28!00:00!2023-05-27!Futbol 11!7!15!00:00!00:00!Cancelado!0;5!Playa!36.67826185,-6.110059436817895!0.0!4!2!00:00!2023-05-28!00:00!2023-05-27!Futbol 11!2!2!00:00!00:00!Cancelado!0;6!Liguilla!36.7355451,-6.4348221!2.0!4!2!00:00!2023-06-11!00:00!2023-06-09!Voleibol!7!10!00:00!04:00!Cancelado!0;8!Gratis!36.6228636,-6.3599595!0.0!4!2!00:00!2023-06-01!00:00!2023-06-09!Futbol 11!2!2!00:00!00:00!Cancelado!0;9!gratis!36.6228636,-6.3599595!0.0!4!2!00:00!2023-06-02!00:00!2023-06-10!Voleibol Playa!2!2!00:00!00:00!Cancelado!1;10!Prueba liga!36.6228636,-6.3599595!157.5!4!2!00:00!2023-06-11!00:00!2023-06-04!Futbol 11!10!5!00:00!00:00!Cancelado!0;
+[11/06/2023 17:57:06] 2-123:CLI-TEAMSLIGUE;2
+[11/06/2023 17:57:06] 2-123:SEV-YOURTEAMSLIGUE;ELIMINADO:123:;ELIMINADO:124:;ELIMINADO3:124:;122:111:123!x!111!;
+[11/06/2023 17:57:07] 2-123:CLI-LIGUES-NUMBER-ROUND;2
+[11/06/2023 17:57:07] 2-123:SEV-LIGUES-NUMBER-ROUND-OK;6
+[11/06/2023 17:57:07] 2-123:CLI-LIGUES-ROUND-DATE;2;1
+[11/06/2023 17:57:07] 2-123:SEV-LIGUES-ROUND-DATE-OK;1/122/3/ELIMINADO/1/2023-04-12/04:00!2/ELIMINADO3/?/ELIMINADO/?/2023-04-12/04:12!
+[11/06/2023 17:57:08] 2-123:CLI-LIGUES-SCORE;2
+[11/06/2023 17:57:08] 2-123:SEV-LIGUES-SCORE-OK;ELIMINADO:3:3:6:9:-3;ELIMINADO:4:7:15:10:5;ELIMINADO3:2:3:25:9:16;122:4:7:10:28:-18;
+[11/06/2023 17:57:10] 2-123:CLI-EXIT
+[11/06/2023 17:57:10] 2-123:SE HA DESCONECTADO

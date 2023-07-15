@@ -1,0 +1,174 @@
+---- [13/06/2023 13:41:19] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 13:41:20] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 13:41:20] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 13:41:20] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 13:41:20] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 13:41:20] SERVIDOR INICIADO ----
+Esperando 94719 segundos hasta la próxima tarea en: 2023-06-14T16:00
+[13/06/2023 13:42:03] Se ha conectado un cliente
+[13/06/2023 13:42:11] 0-:CLI-LOGIN;movil1;123;USUARIO
+[13/06/2023 13:42:11] 3-movil1:SEV-LOGIN-OK-USER;3;movil1
+[13/06/2023 13:42:11] 3-movil1:CLI-GAMES-USER
+[13/06/2023 13:42:11] 3-movil1:SEV-GAMES-USER-OK;36.50254903550921,-6.272066496312618!2023-06-16!17:00!2023-06-14!16:00!0.1!Voleibol Playa!Esperando Jugadores!4!2!2;
+[13/06/2023 13:42:13] 3-movil1:CLI-LIGUES-USER
+[13/06/2023 13:42:13] 3-movil1:SEV-LIGUES-USER-OK;
+[13/06/2023 13:42:14] 3-movil1:CLI-LIGUES-AVAILABLE;36.6291093,-6.3701855;10
+[13/06/2023 13:42:14] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:42:14] 3-movil1:CLI-LIGUES-AVAILABLE;36.6291093,-6.3701855;10
+[13/06/2023 13:42:15] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:42:15] 3-movil1:CLI-LIGUES-STATE-USER;1
+[13/06/2023 13:42:15] 3-movil1:SEV-LIGUES-STATE-USER-OK;INSCRIBIRSE
+[13/06/2023 13:42:16] 3-movil1:CLI-LIGUES-TEAMS-INSCRIBE-USER;1
+[13/06/2023 13:42:16] 3-movil1:SEV-LIGUES-TEAMS-INSCRIBE-USER-OK;EquipoPublico:
+---- [13/06/2023 13:42:46] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 13:42:47] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 13:42:47] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 13:42:47] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 13:42:47] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 13:42:47] SERVIDOR INICIADO ----
+Esperando 94632 segundos hasta la próxima tarea en: 2023-06-14T16:00
+[13/06/2023 13:42:49] Se ha conectado un cliente
+[13/06/2023 13:42:54] 0-:CLI-LOGIN;movil1;123;USUARIO
+[13/06/2023 13:42:54] 3-movil1:SEV-LOGIN-OK-USER;3;movil1
+[13/06/2023 13:42:55] 3-movil1:CLI-GAMES-USER
+[13/06/2023 13:43:07] 3-movil1:SEV-GAMES-USER-OK;36.50254903550921,-6.272066496312618!2023-06-16!17:00!2023-06-14!16:00!0.1!Voleibol Playa!Esperando Jugadores!4!2!2;
+[13/06/2023 13:43:08] 3-movil1:CLI-LIGUES-USER
+[13/06/2023 13:43:10] 3-movil1:SEV-LIGUES-USER-OK;
+[13/06/2023 13:43:12] 3-movil1:CLI-LIGUES-AVAILABLE;36.6291093,-6.3701855;10
+[13/06/2023 13:43:13] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:43:13] 3-movil1:CLI-LIGUES-AVAILABLE;36.6291093,-6.3701855;10
+[13/06/2023 13:43:18] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:43:18] 3-movil1:CLI-LIGUES-STATE-USER;1
+[13/06/2023 13:43:24] 3-movil1:SEV-LIGUES-STATE-USER-OK;INSCRIBIRSE
+[13/06/2023 13:43:26] 3-movil1:CLI-LIGUES-TEAMS-INSCRIBE-USER;1
+[13/06/2023 13:45:29] Se ha conectado un cliente
+[13/06/2023 13:45:30] 0-:SE HA DESCONECTADO
+[13/06/2023 13:45:32] Se ha conectado un cliente
+[13/06/2023 13:45:39] 0-:CLI-LOGIN;movil1;123;USUARIO
+[13/06/2023 13:45:39] 3-movil1:SEV-LOGIN-OK-USER;3;movil1
+[13/06/2023 13:45:39] 3-movil1:CLI-GAMES-USER
+[13/06/2023 13:45:39] 3-movil1:SEV-GAMES-USER-OK;36.50254903550921,-6.272066496312618!2023-06-16!17:00!2023-06-14!16:00!0.1!Voleibol Playa!Esperando Jugadores!4!2!2;
+[13/06/2023 13:45:41] 3-movil1:CLI-LIGUES-USER
+[13/06/2023 13:45:41] 3-movil1:SEV-LIGUES-USER-OK;
+[13/06/2023 13:45:43] 3-movil1:CLI-LIGUES-AVAILABLE;36.6290889,-6.3702021;10
+[13/06/2023 13:45:43] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:45:43] 3-movil1:CLI-LIGUES-AVAILABLE;36.6290889,-6.3702021;10
+[13/06/2023 13:45:43] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:45:44] 3-movil1:CLI-LIGUES-STATE-USER;1
+[13/06/2023 13:45:44] 3-movil1:SEV-LIGUES-STATE-USER-OK;INSCRIBIRSE
+[13/06/2023 13:45:45] 3-movil1:CLI-LIGUES-TEAMS-INSCRIBE-USER;1
+[13/06/2023 13:45:51] 3-movil1:SEV-LIGUES-TEAMS-INSCRIBE-USER-OK;EquipoPublico:
+[13/06/2023 13:45:51] 3-movil1:SEV-LIGUES-TEAMS-INSCRIBE-USER-OK;EquipoPublico:
+[13/06/2023 13:45:51] Un usuario se ha desconectado de forma abrupta
+[13/06/2023 13:45:55] 3-movil1:CLI-LIGUES-TEAMS-INSCRIBE-USER;1
+---- [13/06/2023 13:46:17] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 13:46:17] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 13:46:18] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 13:46:18] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 13:46:18] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 13:46:18] SERVIDOR INICIADO ----
+Esperando 94421 segundos hasta la próxima tarea en: 2023-06-14T16:00
+[13/06/2023 13:46:20] Se ha conectado un cliente
+[13/06/2023 13:46:25] 0-:CLI-LOGIN;movil1;123;USUARIO
+[13/06/2023 13:46:25] 3-movil1:SEV-LOGIN-OK-USER;3;movil1
+[13/06/2023 13:46:25] 3-movil1:CLI-GAMES-USER
+[13/06/2023 13:46:25] 3-movil1:SEV-GAMES-USER-OK;36.50254903550921,-6.272066496312618!2023-06-16!17:00!2023-06-14!16:00!0.1!Voleibol Playa!Esperando Jugadores!4!2!2;
+[13/06/2023 13:46:27] 3-movil1:CLI-LIGUES-USER
+[13/06/2023 13:46:27] 3-movil1:SEV-LIGUES-USER-OK;
+[13/06/2023 13:46:29] 3-movil1:CLI-LIGUES-AVAILABLE;36.6290889,-6.3702021;10
+[13/06/2023 13:46:29] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:46:29] 3-movil1:CLI-LIGUES-AVAILABLE;36.6290889,-6.3702021;10
+[13/06/2023 13:46:29] 3-movil1:SEV-LIGUES-AVAILABLE-OK;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 13:46:30] 3-movil1:CLI-LIGUES-STATE-USER;1
+[13/06/2023 13:46:30] 3-movil1:SEV-LIGUES-STATE-USER-OK;INSCRIBIRSE
+[13/06/2023 13:46:31] 3-movil1:CLI-LIGUES-TEAMS-INSCRIBE-USER;1
+[13/06/2023 13:46:31] 3-movil1:SEV-LIGUES-TEAMS-INSCRIBE-USER-OK;EquipoPublico:EquipoInvitacion:
+[13/06/2023 13:46:48] 3-movil1:SE HA DESCONECTADO
+---- [13/06/2023 13:59:38] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 13:59:40] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 13:59:40] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 13:59:40] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 13:59:40] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 13:59:40] SERVIDOR INICIADO ----
+Esperando 93619 segundos hasta la próxima tarea en: 2023-06-14T16:00
+[13/06/2023 13:59:54] Se ha conectado un cliente
+[13/06/2023 14:00:14] 0-:CLI-REGISTER;123;as@gmail.com;123;ORGANIZADOR
+[13/06/2023 14:00:14] 13-123:SEV-REGISTER-OK-ORGANIZER;13;123
+[13/06/2023 14:00:15] 13-123:CLI-GIVETOURNAMENTS-ORGANIZER
+[13/06/2023 14:00:15] 13-123:SEV-SEND-YOUR-TOURNAMENTS;
+[13/06/2023 14:00:33] 13-123:CLI-USER-MAIL
+[13/06/2023 14:00:33] 13-123:SEV-USER-MAIL-OK;as@gmail.com
+[13/06/2023 14:00:47] 13-123:CLI-EXIT
+[13/06/2023 14:00:47] 13-123:SE HA DESCONECTADO
+---- [13/06/2023 14:04:03] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 14:04:05] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 14:04:05] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 14:04:05] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 14:04:05] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 14:04:05] SERVIDOR INICIADO ----
+Esperando 93354 segundos hasta la próxima tarea en: 2023-06-14T16:00
+[13/06/2023 14:04:09] Se ha conectado un cliente
+[13/06/2023 14:04:28] 0-:CLI-REGISTER;123;123@gmail.com;123;ORGANIZADOR
+[13/06/2023 14:04:28] 0-:SEV-REGISTER-ERROR-ORGANIZER
+[13/06/2023 14:04:32] 0-:CLI-REGISTER;1234;123@gil.com;123;ORGANIZADOR
+[13/06/2023 14:04:33] 15-1234:SEV-REGISTER-OK-ORGANIZER;15;1234
+[13/06/2023 14:04:33] 15-1234:CLI-GIVETOURNAMENTS-ORGANIZER
+[13/06/2023 14:04:33] 15-1234:SEV-SEND-YOUR-TOURNAMENTS;
+[13/06/2023 14:04:35] 15-1234:CLI-EXIT
+[13/06/2023 14:04:35] 15-1234:SE HA DESCONECTADO
+---- [13/06/2023 17:22:39] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 17:22:41] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 17:22:43] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 17:22:44] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 17:22:44] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 17:22:44] SERVIDOR INICIADO ----
+No hay tareas en la cola. Esperando inserccion...
+---- [13/06/2023 17:24:03] Obteniendo todos los torneos pendientes a generar ----
+---- [13/06/2023 17:24:04] Obteniendo todas las ligas pendientes a generar ----
+---- [13/06/2023 17:24:04] Obteniendo los partidos por jugarse ----
+---- [13/06/2023 17:24:04] Creado el hilo encargado de las tareas ----
+---- [13/06/2023 17:24:04] Iniciado el hilo encargado de las tareas ----
+---- [13/06/2023 17:24:04] SERVIDOR INICIADO ----
+Esperando 81355 segundos hasta la próxima tarea en: 2023-06-14T16:00
+[13/06/2023 17:24:13] Se ha conectado un cliente
+[13/06/2023 17:24:18] 0-:CLI-LOGIN;123;123;ORGANIZADOR
+[13/06/2023 17:24:18] 13-123:SEV-LOGIN-OK-ORGANIZER;13;123
+[13/06/2023 17:24:19] 13-123:CLI-GIVETOURNAMENTS-ORGANIZER
+[13/06/2023 17:24:19] 13-123:SEV-SEND-YOUR-TOURNAMENTS;
+[13/06/2023 17:24:21] 13-123:CLI-GIVELIGUES-ORGANIZER
+[13/06/2023 17:24:21] 13-123:SEV-SEND-YOUR-LIGUES;
+[13/06/2023 17:24:24] 13-123:CLI-EXIT
+[13/06/2023 17:24:24] 13-123:SE HA DESCONECTADO
+[13/06/2023 17:24:32] Se ha conectado un cliente
+[13/06/2023 17:24:38] 0-:CLI-LOGIN;cliente1;123;ORGANIZADOR
+[13/06/2023 17:24:38] 6-cliente1:SEV-LOGIN-OK-ORGANIZER;6;cliente1
+[13/06/2023 17:24:38] 6-cliente1:CLI-GIVETOURNAMENTS-ORGANIZER
+[13/06/2023 17:24:38] 6-cliente1:SEV-SEND-YOUR-TOURNAMENTS;Voleibol!36.620664,-6.366986!0.0!4!3!17:50!2023-06-16!12:33!2023-06-13!Voleibol Playa!Jugandose!4!1;
+[13/06/2023 17:24:42] 6-cliente1:CLI-TEAMSTOURNAMENT;1
+[13/06/2023 17:24:42] 6-cliente1:SEV-YOURTEAMSTOURNAMENT;EquipoPublico:movil1:movil1!movil2!;VoleibolRota:movil3:movil3!movil4!;LosPixones:movil5:movil5!movil6!;Playero:movil7:movil7!movil8!;
+[13/06/2023 17:24:43] 6-cliente1:CLI-TOURNAMENTS-ROUNDS;1
+[13/06/2023 17:24:43] 6-cliente1:SEV-TOURNAMENTS-ROUNDS;1/1/Playero/5/LosPixones/3/1!2/1/VoleibolRota/1/EquipoPublico/4/1!:3/2/Playero/3/VoleibolRota/1/1!
+[13/06/2023 17:24:44] 6-cliente1:CLI-GIVELIGUES-ORGANIZER
+[13/06/2023 17:24:44] 6-cliente1:SEV-SEND-YOUR-LIGUES;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 17:24:46] 6-cliente1:CLI-TEAMSLIGUE;1
+[13/06/2023 17:24:46] 6-cliente1:SEV-YOURTEAMSLIGUE;
+[13/06/2023 17:24:52] 6-cliente1:CLI-TEAMSLIGUE;1
+[13/06/2023 17:24:52] 6-cliente1:SEV-YOURTEAMSLIGUE;
+[13/06/2023 17:24:57] 6-cliente1:CLI-LIGUES-NUMBER-ROUND;1
+[13/06/2023 17:24:57] 6-cliente1:SEV-LIGUES-NUMBER-ROUND-ERROR
+[13/06/2023 17:25:00] 6-cliente1:CLI-LIGUES-SCORE;1
+[13/06/2023 17:25:00] 6-cliente1:SEV-LIGUES-SCORE-OK;
+[13/06/2023 17:25:01] 6-cliente1:CLI-LIGUES-NUMBER-ROUND;1
+[13/06/2023 17:25:01] 6-cliente1:SEV-LIGUES-NUMBER-ROUND-ERROR
+[13/06/2023 17:25:01] 6-cliente1:CLI-TEAMSLIGUE;1
+[13/06/2023 17:25:01] 6-cliente1:SEV-YOURTEAMSLIGUE;
+[13/06/2023 17:25:03] 6-cliente1:CLI-GIVETOURNAMENTS-ORGANIZER
+[13/06/2023 17:25:03] 6-cliente1:SEV-SEND-YOUR-TOURNAMENTS;Voleibol!36.620664,-6.366986!0.0!4!3!17:50!2023-06-16!12:33!2023-06-13!Voleibol Playa!Jugandose!4!1;
+[13/06/2023 17:25:04] 6-cliente1:CLI-GIVELIGUES-ORGANIZER
+[13/06/2023 17:25:04] 6-cliente1:SEV-SEND-YOUR-LIGUES;1!Liguilla!36.6252894,-6.3711083!0.0!4!2!19:00!2023-06-16!00:00!2023-06-15!Voleibol Playa!7!30!15:00!21:00!Esperando Jugadores!0;
+[13/06/2023 17:25:07] 6-cliente1:CLI-GIVETOURNAMENTS-ORGANIZER
+[13/06/2023 17:25:07] 6-cliente1:SEV-SEND-YOUR-TOURNAMENTS;Voleibol!36.620664,-6.366986!0.0!4!3!17:50!2023-06-16!12:33!2023-06-13!Voleibol Playa!Jugandose!4!1;
+[13/06/2023 17:25:08] 6-cliente1:CLI-USER-MAIL
+[13/06/2023 17:25:08] 6-cliente1:SEV-USER-MAIL-OK;cliente1@gmail.com
+[13/06/2023 17:25:10] 6-cliente1:CLI-EXIT
+[13/06/2023 17:25:10] 6-cliente1:SE HA DESCONECTADO
